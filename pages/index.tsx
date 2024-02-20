@@ -21,7 +21,6 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            TEST
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
